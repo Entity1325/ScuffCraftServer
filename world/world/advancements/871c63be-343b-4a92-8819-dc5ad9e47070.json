@@ -1,0 +1,266 @@
+{
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2025-02-23 11:32:58 +0100"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/updraft": {
+    "criteria": {
+      "requirement": "2025-02-23 11:32:58 +0100"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2025-02-23 11:32:58 +0100"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/light": {
+    "criteria": {
+      "requirement": "2025-02-23 11:32:58 +0100"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2025-02-23 11:32:58 +0100"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/root": {
+    "criteria": {
+      "requirement": "2025-02-23 11:32:58 +0100"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_conveyance": {
+    "criteria": {
+      "requirement": "2025-02-23 11:32:58 +0100"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_color": {
+    "criteria": {
+      "has_red_balloon": "2025-02-23 11:32:58 +0100",
+      "has_black_balloon": "2025-02-23 11:32:58 +0100",
+      "has_lime_balloon": "2025-02-23 11:32:58 +0100",
+      "has_cyan_balloon": "2025-02-23 11:32:58 +0100",
+      "has_light_blue_balloon": "2025-02-23 11:32:58 +0100",
+      "has_gray_balloon": "2025-02-23 11:32:58 +0100",
+      "has_pink_balloon": "2025-02-23 11:32:58 +0100",
+      "has_light_gray_balloon": "2025-02-23 11:32:58 +0100",
+      "has_white_balloon": "2025-02-23 11:32:58 +0100",
+      "has_blue_balloon": "2025-02-23 11:32:58 +0100",
+      "has_yellow_balloon": "2025-02-23 11:32:58 +0100",
+      "has_purple_balloon": "2025-02-23 11:32:58 +0100",
+      "has_orange_balloon": "2025-02-23 11:32:58 +0100",
+      "has_brown_balloon": "2025-02-23 11:32:58 +0100",
+      "has_green_balloon": "2025-02-23 11:32:58 +0100",
+      "has_magenta_balloon": "2025-02-23 11:32:58 +0100"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/ship_helm": {
+    "criteria": {
+      "has_gold": "2025-02-23 11:32:58 +0100"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/natures_wrath": {
+    "criteria": {
+      "requirement": "2025-02-23 11:32:58 +0100"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2025-02-23 11:32:58 +0100"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_updraft": {
+    "criteria": {
+      "requirement": "2025-02-23 11:32:58 +0100"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2025-02-23 11:32:58 +0100"
+    },
+    "done": true
+  },
+  "stellarity:story/drop_rare_illager_loot": {
+    "criteria": {
+      "drop3": "2025-02-23 11:32:58 +0100",
+      "drop4": "2025-02-23 11:32:58 +0100"
+    },
+    "done": true
+  },
+  "create_connected:root": {
+    "criteria": {
+      "0": "2025-02-23 11:32:58 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-02-23 11:32:58 +0100"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/conveyance": {
+    "criteria": {
+      "requirement": "2025-02-23 11:32:58 +0100"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-02-23 11:32:58 +0100"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2025-02-23 11:32:58 +0100"
+    },
+    "done": true
+  },
+  "numismatics:root": {
+    "criteria": {
+      "0": "2025-02-23 11:32:58 +0100"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_light": {
+    "criteria": {
+      "requirement": "2025-02-23 11:32:58 +0100"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/root": {
+    "criteria": {
+      "requirement": "2025-02-23 11:32:58 +0100"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2025-02-23 11:32:58 +0100"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2025-02-23 11:32:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert": "2025-02-23 11:32:59 +0100",
+      "minecraft:warm_ocean": "2025-02-23 11:34:00 +0100"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-02-23 11:33:13 +0100"
+    },
+    "done": true
+  },
+  "stellarity:events/on_death": {
+    "criteria": {
+      "requirement": "2025-02-23 11:33:13 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "wasteland": "2025-02-23 11:34:29 +0100"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "wasteland": "2025-02-23 11:34:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_carrot": "2025-02-23 11:38:50 +0100"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-23 11:38:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-02-23 11:41:04 +0100"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_hallowed_armor": {
+    "criteria": {
+      "requirement": "2025-02-23 11:44:02 +0100"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/hallowed_armor": {
+    "criteria": {
+      "requirement": "2025-02-23 11:44:02 +0100"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/trinkets/soaring_insignia": {
+    "criteria": {
+      "requirement": "2025-02-23 11:44:03 +0100"
+    },
+    "done": true
+  },
+  "quark:wear_full_rainbow": {
+    "criteria": {
+      "wear_full_rainbow": "2025-02-23 11:45:05 +0100"
+    },
+    "done": true
+  },
+  "stellarity:aota/cancel_damage_hallowed_armor": {
+    "criteria": {
+      "dodge_damage": "2025-02-23 11:47:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-23 11:57:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-23 12:11:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-23 12:10:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-02-23 12:10:49 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
